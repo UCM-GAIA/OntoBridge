@@ -25,15 +25,19 @@ OntoBridge is simplified in one class. You can check its functionality browsing 
 OntoBridge includes several examples of graphical interfaces:
 
 - Concept Hierarchy:
+
 ![Concept Hierarchy](http://gaia.fdi.ucm.es/files/research/ontobridge/img/concepthierarchy.jpg)
 
 - Instance Structure:
+
 ![Instance Structure](http://gaia.fdi.ucm.es/files/research/ontobridge/img/instancestructure.jpg)
 
 - Concepts & Instances Hierarchy:
+
 ![Concepts & Instances Hierarchy](http://gaia.fdi.ucm.es/files/research/ontobridge/img/conceptsandinstances.jpg)
 
 - Concepts & Inferred Instances Hierarchy:
+
 ![Concepts & Inferred Instances Hierarchy](http://gaia.fdi.ucm.es/files/research/ontobridge/img/inferredinstances.jpg)
 
 ## Download
